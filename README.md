@@ -16,6 +16,7 @@ Before you begin, ensure you have met the following requirements:
     ```bash
     git clone https://github.com/fredericBui/friendevent_backend.git
     ```
+    
 
 2. Navigate to the project directory:
     ```bash
